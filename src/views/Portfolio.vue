@@ -85,7 +85,7 @@ export default {
                     border-radius: 35px;
                     width: 85%;
                     height: 200px;
-
+                    position: relative;
                     img{
                         border-radius: 35px;
                         width: 100%;
