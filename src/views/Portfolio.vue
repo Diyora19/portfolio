@@ -16,7 +16,7 @@
                         </v-list-item-content>
                         </v-list-item>
 
-                        <v-card-actions>
+                        <v-card-actions> 
                         <v-btn
                             class="btn pa-3"
                             rounded
@@ -92,7 +92,7 @@ export default {
                         height: 100%;
                         object-fit: cover;
                         position: relative;
-                        
+                         
                     }
                 }
                 .card{
